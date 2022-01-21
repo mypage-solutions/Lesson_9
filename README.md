@@ -13,9 +13,10 @@
 
 ## General Information
 
-1.
-2.
-3.
+Homework contains three files:
+1. FindSum.java
+2. InsertWord.java
+3. BinarySearch.java
 
 ## Technologies Used
 
