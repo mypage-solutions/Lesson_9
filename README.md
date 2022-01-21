@@ -1,4 +1,5 @@
-![GitHub code size in bytes](https://img.shields.io/github/languages/count/mypage-solutions/Lesson_9)
+//![GitHub code size in bytes](https://img.shields.io/github/languages/count/mypage-solutions/Lesson_9)
+![GitHub top language](https://img.shields.io/github/languages/top/mypage-solutions/Lesson_9)
 ![GitHub code size in bytes](https://img.shields.io/tokei/lines/github.com/mypage-solutions/Lesson_9)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mypage-solutions/Lesson_9)
 
