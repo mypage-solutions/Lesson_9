@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        print(binarySearch1(new int[]{1, 8, 10, 15, 20, 30, 50, 51, 52, 53}, 100, 0, 9));
+        print(binarySearch1(new int[]{1, 8, 10, 15, 20, 30, 50, 51, 52, 53}, 53));
         print(binarySearch2(new int[]{1, 8, 10, 15, 20, 30, 50, 51, 52, 53}, 100));
     }
 
@@ -13,8 +13,10 @@ public class BinarySearch {
         Входящие параметры: массив и число.
         (считаем что массива который нам передали отсортирован, проверять это не нужно)
      */
-    public static boolean binarySearch1(int[] sortedArray, int key, int low, int high) {
+    public static boolean binarySearch1(int[] sortedArray, int key) {
         boolean isTrue = false;
+        int low = 0;
+        int high = sortedArray.length - 1;
 
         while (low <= high) {
             int mid = low + ((high - low) / 2);
