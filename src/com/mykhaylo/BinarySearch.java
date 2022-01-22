@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class BinarySearch {
     public static void main(String[] args) {
         print(binarySearch1(new int[]{1, 8, 10, 15, 20, 30, 50, 51, 52, 53}, 30));
-        print(binarySearch2(new int[]{1, 8, 10, 15, 20, 30, 50, 51, 52, 53}, -54));
+        print(binarySearch2(new int[]{1, 8, 10, 15, 20, 30, 50, 51, 52, 53}, 0));
     }
 
     /*
