@@ -2,7 +2,7 @@ package com.mykhaylo;
 
 public class FindSum {
     public static void main(String[] args) {
-        print(findSum(100.0, 2));
+        print(findSum(100.0, 1));
     }
 
     /*
