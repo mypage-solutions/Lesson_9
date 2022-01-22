@@ -31,6 +31,6 @@ public class InsertWord {
     }
 
     public static void print(String someText) {
-        System.out.println(someText.toString());
+        System.out.println(someText);
     }
 }

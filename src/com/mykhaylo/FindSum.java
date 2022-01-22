@@ -2,7 +2,7 @@ package com.mykhaylo;
 
 public class FindSum {
     public static void main(String[] args) {
-        print(findSum(100.0, 1));
+        print(findSum(100.0, 2));
     }
 
     /*
@@ -13,7 +13,7 @@ public class FindSum {
     public static double findSum(double s, int n) {
         int months = n * 12;
         for (int i = 0; i < months; i++) {
-            s += s * 0.015d;
+            s += s * 0.015;
         }
         return s;
     }
