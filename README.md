@@ -1,3 +1,4 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mypage-solutions/Lesson_9?color=green)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/count/mypage-solutions/Lesson_9)
 ![GitHub top language](https://img.shields.io/github/languages/top/mypage-solutions/Lesson_9)
 ![GitHub code size in bytes](https://img.shields.io/tokei/lines/github.com/mypage-solutions/Lesson_9)
